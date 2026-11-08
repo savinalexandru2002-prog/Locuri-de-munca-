@@ -1,0 +1,6 @@
+{
+  "name": "BrașovJobs - Portal Locuri de Muncă",
+  "description": "Căutare locuri de muncă în Brașov cu număr de telefon vizibil, contact direct prin apel sau mesaje, filtre avansate și consilier AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
